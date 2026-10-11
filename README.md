@@ -4,7 +4,7 @@
 
 Built for **Environmental Hacks** (Bharat Builds Tour, WeMakeDevs × AWS), **Air track**.
 
-[Live demo](#) · [Demo video](#) · [Blog on AWS Builder Center](#)
+[Demo video](https://www.youtube.com/watch?v=KqSfouGtk-w&feature=youtu.be) · [Blog on AWS Builder Center](https://builder.aws.com/content/3KXSH5r2Uv1uPcGYv9vcac7YoX7/can-the-kids-play-outside-today-building-a-school-air-quality-advisor-with-strands-agents)
 
 <!-- Replace the three # links above with your real URLs before submitting. -->
 
