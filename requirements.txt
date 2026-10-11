@@ -1,0 +1,6 @@
+streamlit==1.42.0
+requests==2.34.2
+python-dotenv==1.2.2
+strands-agents==1.0.0
+google-genai==1.0.0
+tzdata==2026.3
